@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "435268511622",
+    "firebase_url": "https://iotsmartfarmdatn.firebaseio.com",
+    "project_id": "iotsmartfarmdatn",
+    "storage_bucket": "iotsmartfarmdatn.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:435268511622:android:4cadcb4650ae219500ae07",
+        "android_client_info": {
+          "package_name": "com.example.growing_plants_iot_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "435268511622-f3onbdkug1jvmjg6tudflhk0bbhmmr5s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmaZk1-cdd6lFOKoAUgpXma_Q5eVxwq9w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "435268511622-f3onbdkug1jvmjg6tudflhk0bbhmmr5s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
